@@ -17,7 +17,7 @@ She hands you the crumpled note with the following tasks
 - [ ] when a user visits `/sightings/new` show a form to add a bird's name
 - [ ] expose an API. when a user visits `api/sightings` render all the sightings as JSON
 
-Next steps
+# Next steps
 
 The next day you run into your project manager by the photocopier. "Nice work, but
 I want to see the 3 most recent sightings on the index page and include the location.
@@ -30,6 +30,8 @@ You scribble down onto a Post-It note
 - [ ] Show last 3 sightings on index
 - [ ] Add address location to form
 
+# Cockatoo where are you?
+
 As you pass the UX designer hunched over the fax machine she asks if you know the
 zipcode for Vermont.  "If only it was as easy to look up as it is to geocode addresses
 with the [NPM package geocoder](https://www.npmjs.com/package/geocoder)." she chuckles.
@@ -38,6 +40,8 @@ You jot down the following onto a Post-It note
 
 - [ ] geocode locations and store their lat/long?
 - [ ] figure out UX designer's name
+
+# Toucan do it!
 
 The CEO calls you into her office, mutes the TED Talk she's watching and says "You know,
 since getting out of Rikers I've heard a ton about this AJAX thing. I want you to
@@ -49,11 +53,15 @@ to type in an address and send back the lat/long all with AJAX."
 - [ ] ajax the bird data and render it
 - [ ] ajax a location and geocode it
 
-"People make mistakes!" you hear the receptionist sobbing on the phone. This
+# Sparrow me
+
+"People make mistakes!" you hear the receptionist sobbing. This
 gets you thinking "maybe we should be able to edit and update bird sightings!"
 
 - [ ] add edit functionality
 - [ ] get receptionist a tissue
+
+# A cheap date
 
 You've scored a data via Coffee meets Bagel with "WebBoi87." "Her name is Janet
 and it says she's a dev too. Look at this online portfolio!" you say to your
@@ -62,6 +70,8 @@ roommate. "Didn't you find some [notes](notes.md) on deployment? Maybe you shoul
 - [ ] go over deployment notes
 - [ ] deploy app to heroku
 - [ ] get own apartment
+
+# Owl never fall in love again
 
 On your second Coffee meets Bagel date with Janet, you #humblebrag about your sweet
 new job as a developer. "This text looks kind of small, did you set a
@@ -72,6 +82,8 @@ You scribble onto your hand:
 
 - [ ] Don't date devs
 - [ ] Add a viewport
+
+# Goose your own way
 
 At your project manager's going away party you make small talk with the still
 unnamed UX designer.  "Have you read this blog post on GeoSpatial queries? What if
