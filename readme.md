@@ -17,7 +17,7 @@ She hands you the crumpled note with the following tasks
 - [ ] when a user visits `/sightings/new` show a form to add a bird's name
 - [ ] expose an API. when a user visits `api/sightings` render all the sightings as JSON
 
-# Next steps
+# Where do we flamingo from here?
 
 The next day you run into your project manager by the photocopier. "Nice work, but
 I want to see the 3 most recent sightings on the index page and include the location.
@@ -61,7 +61,7 @@ gets you thinking "maybe we should be able to edit and update bird sightings!"
 - [ ] add edit functionality
 - [ ] get receptionist a tissue
 
-# A cheap date
+# A cheep date
 
 You've scored a data via Coffee meets Bagel with "WebBoi87." "Her name is Janet
 and it says she's a dev too. Look at this online portfolio!" you say to your
