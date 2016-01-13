@@ -49,7 +49,11 @@ to type in an address and send back the lat/long all with AJAX."
 - [ ] ajax the bird data and render it
 - [ ] ajax a location and geocode it
 
-# Deployment
+"People make mistakes!" you hear the receptionist sobbing on the phone. This
+gets you thinking "maybe we should be able to edit and update bird sightings!"
+
+- [ ] add edit functionality
+- [ ] get receptionist a tissue
 
 You've scored a data via Coffee meets Bagel with "WebBoi87." "His name is Lance
 and it says he's a dev too. Look at this online portfolio!" you say to your
@@ -57,6 +61,7 @@ roommate. "Didn't you find some [notes](notes.md) on deployment? Maybe you shoul
 
 - [ ] go over deployment notes
 - [ ] deploy app to heroku
+- [ ] get own apartment
 
 One your second Coffee meets Bagel date with Lance, you #humblebrag about your sweet
 new job as a developer. "This text looks kind of small, did you set a
@@ -66,7 +71,7 @@ You cough up into your riesling and mutter "They must not have deployed my chang
 and then scribble onto your hand.
 
 - [ ] Don't date devs
-- [ ] Add a view port
+- [ ] Add a viewport
 
 At your project manager's going away party you make small talk with the still
 unnamed UX designer.  "Have you read this blog post on GeoSpatial queries? What if
