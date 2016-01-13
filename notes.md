@@ -1,7 +1,7 @@
 Update package.json
 
 By default Heroku will try and start server with "npm start", so add
-"npm start: node app.js" to package.json
+"start: node app.js" to package.json
 
 Add mongo to heroku
 
